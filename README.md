@@ -9,13 +9,13 @@ pip install opencv-python
 
 ### Duck
 
-![Image of Duck](images/duck_original.jpeg =500x500)
+![Image of Duck](images/duck_original.jpeg)
 ```sh
 img = cv2.imread("duck_original.jpg")
 hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 mask = cv2.inRange(hsv, (0, 0, 0), (220, 145,255))
 ```
-![Image of Duck](images/duck_inrange.jpeg =500x500)
+![Image of Inrange Duck](images/duck_inrange.jpeg)
 
 ### Rubix Cube
 ```sh
