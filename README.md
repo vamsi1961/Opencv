@@ -6,15 +6,13 @@ you can explore various filters and various techniques
 
 
 
-/home/kishore/tanuj_inp.png
-/home/kishore/tanuj_oup.png
-/home/kishore/jahn_oup.png
-/home/kishore/jahn_inp.png
-/home/kishore/erin_oup.png
-/home/kishore/erin_inp.png
-/home/kishore/ajin_oup.png
-/home/kishore/ajin_inp.png
+ajin - inrange [0 0 0] [220 145 255] pink doll
 
+tanuj - [0 0 0] [211 182 187] - rubixcube
+
+jahnavi - [ 2 33 90] [ 23 216 255]  - hand
+
+erin - (0,154,0) (255,255,255)  - pink mug
 
 
 
